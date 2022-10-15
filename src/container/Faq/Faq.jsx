@@ -7,20 +7,20 @@ import css from './Faq.module.css';
 const Faq = () => {
     const [list] = useState([
         {
-            title: 'When is the mint of Elevated Yacht Club NFT?',
-            text: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+            title: 'How can I mint Elevated Yacht Club NFT?',
+            text: "You can mint our nft using ETH with metamask or you pay for the NFT with credit card."
         },{
-            title: 'How to mint Elevated Yacht Club NFT?',
-            text: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+            title: 'How can I view my NFT after mint?',
+            text: "Log in to opensea.io using the wallet that was used to mint the NFT. If you paid with a credit card, be sure to check the hidden folder. If you are still can't find it, it should be still in your winter wallet (www.usewinter.com)"
         },{
-            title: 'What are the official links?',
-            text: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+            title: 'Why I cannot mint Founder Pass?',
+            text: "It's invited only. Please fill out the application here: https://forms.gle/E7FM3sUBGEe8cD6V9 "
         },{
-            title: 'Where can i contact the team?',
-            text: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+            title: 'Where can I contact the team?',
+            text: "Best way to contact us is via Twitter or Discord."
         },{
-            title: 'What is black box collective smart contract address?',
-            text: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+            title: 'What is Elevated Yacht Club smart contract address?',
+            text: "https://etherscan.io/address/0x79be5d1566bd6202a52284e7dee277a414100f88"
         }
     ]);
 
