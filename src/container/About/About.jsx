@@ -17,9 +17,9 @@ import YouTube from 'react-youtube';
 const About = () => {
     const [list] = useState([
         {
-            title: 'Luxury Travel',
+            title: 'Yacht & Networking',
             icon: Image1,
-            text: "We help our members get exclusive discounts on travel and yacht charters, as well as access to VIP events and experiences  We have carefully curated a selection of vendors who provide top-quality services at a fraction of the cost. Whether you're looking to explore the world or simply relax in style, we've got you covered.",
+            text: "If you're looking for a fun and unique way to network with some of the most successful people in your industry, Yacht Networking is the answer! You'll be able to mix and mingle with like-minded individuals while enjoying the beautiful scenery. It's the perfect way to expand your professional network! We host monthly networking events on our yachts in Los Angeles, San Diego, Miami, and soon around the globe. We have a variety of events, including workshops, seminars, conferences, and parties.",
         },{
             title: 'Community Driven',
             icon: Image2,
