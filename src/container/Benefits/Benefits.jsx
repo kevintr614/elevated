@@ -31,24 +31,30 @@ const Benefits = () => {
         },{
             title: 'VIP PASS',
             list: [
-                'Access to all exclusive IRL events.',
-                'Raffle ticket to our yacht events.',
+                'Life-time access to all exclusive IRL events.',
+                'One free ticket to our yacht event. ($250 per ticket afterward)',
                 'Access to our token-gate Discord.',
                 'DIY travel hack.',
                 '10% off yacht rental. (12ppl max)',
+                'Life-time access to our Education Portal.',
             ]
         },{
             title: 'FOUNDER PASS',
             list: [
-                'Access to all exclusive IRL events  +1. ',
+                'Life-time Access to all exclusive IRL events with your +1. ',
                 'Guarantee ticket to our yacht events.',
                 'Private Founder Chatroom.',
-                'Exclusive support on travel hack.',
+                'Priority support on travel hack.',
                 '30% off yacht rental. (24ppl max)',
+                'Life-time access to our Education Portal.',
+                'Have our team organize yacht events for you, your company or project.',
                 'Private Jet charter.',
                 'Nightclub, Music Festival table service.',
                 'Access to our contact in various industries.',
-                'Access to in-house funding team.'
+                'Access to in-house funding team.',
+                'Access to our algorith trading bot.',
+                'Access to our trading program. ($150,000 min)',
+                'Access to our web3 Consultation Services. For any web2 company or brand wanting to get into web3, we can help. Our consultation services will help you understand this new landscape and how best to navigate it. We will work with you to develop a strategy that takes advantage of the opportunities web3 offers while mitigating the risks.',
             ]
         },
     ]);
