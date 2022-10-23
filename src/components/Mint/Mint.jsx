@@ -22,7 +22,7 @@ const Mint = () => {
                     value: '0.65'
                 },{
                     label: 'Total Supply',
-                    value: '1,700'
+                    value: '1,600'
                 },
             ]
         }, {
