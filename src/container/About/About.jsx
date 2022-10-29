@@ -18,11 +18,11 @@ const About = () => {
     const [list] = useState([
         {
             title: 'Yacht & Networking',
-            icon: Image1,
+            icon: Image2,
             text: "If you're looking for a fun and unique way to network with some of the most successful people in your industry, Yacht Networking is the answer! You'll be able to mix and mingle with like-minded individuals while enjoying the beautiful scenery. It's the perfect way to expand your professional network! We host monthly networking events on our yachts in Los Angeles, San Diego, Miami, and soon around the globe. We have a variety of events, including workshops, seminars, conferences, and parties.",
         },{
             title: 'Travel Booking Platform',
-            icon: Image2,
+            icon: Image1,
             text: "The world's first web3 travel booking platform is here! With exclusive access to non-published rates and deals with over 2.5M hotels, 950 airlines, and 15,000 resorts around the world, there's no better place to find your perfect vacation. We offer a 110% Money Back Guarantee to our customers. If you find a lower price for the same hotel or flight on another website, let us know and we will match or beat the current offer. This is our promise to you!",
         },{
             title: 'Education Portal',
