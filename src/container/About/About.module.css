@@ -52,7 +52,7 @@
     }
 }
 
-@media(max-width: 599px){
+@media(max-width: 799px){
     .button{
         margin-top: 40px;
     }
