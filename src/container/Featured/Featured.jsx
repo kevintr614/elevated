@@ -21,13 +21,13 @@ const Featured = () => {
             image: Twitter,
             url: 'https://twitter.com/elevatedyc'
         },{
-            title: 'twitch',
+            title: 'discord',
             image: Twitch,
-            url: 'https://twitch.com/'
+            url: 'https://discord.gg/fnTQcySrs9'
         },{
             title: 'telegram',
             image: Telegram,
-            url: 'https://telegram.com/'
+            url: 'https://t.me/+4FDLOk0WF-wyNjgx'
         },{
             title: 'opensea',
             image: Ship,
