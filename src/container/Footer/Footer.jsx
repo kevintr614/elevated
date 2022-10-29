@@ -60,10 +60,10 @@ const Footer = () => {
                         <ul className={css.menu}>
                             <li><a href="#">Home</a></li>
                             <li><a href="#">Partnerships</a></li>
-                            <li><a href="#">Team</a></li>
                             <li><a href="#">Membership</a></li>
-                            <li><a href="#">Contact Us</a></li>
-                            <li><a href="#">Your Email</a></li>
+                            <li><a href="#">Benefits</a></li>
+                            <li><a href="#">Team</a></li>
+                            <li><a href="#">FAQ</a></li>
                         </ul>
                     </Grid>
                     <Grid xs={12} className={css.social}>
