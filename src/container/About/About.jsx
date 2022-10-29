@@ -23,7 +23,7 @@ const About = () => {
         },{
             title: 'Travel Booking Platform',
             icon: Image2,
-            text: "The world's first web3 travel booking platform is here! With exclusive access to non-published rates and deals with over 2.5M hotels, 950 airlines, and 15,000 resorts around the world, there's no better place to find your perfect vacation.",
+            text: "The world's first web3 travel booking platform is here! With exclusive access to non-published rates and deals with over 2.5M hotels, 950 airlines, and 15,000 resorts around the world, there's no better place to find your perfect vacation. We offer a 110% Money Back Guarantee to our customers. If you find a lower price for the same hotel or flight on another website, let us know and we will match or beat the current offer. This is our promise to you!",
         },{
             title: 'Education Portal',
             icon: Image3,
