@@ -15,11 +15,11 @@ const Featured = () => {
         {
             title: 'instagram',
             image: Instagram,
-            url: 'https://instagram.com/'
+            url: 'https://instagram.com/elevatedyachtclub'
         },{
             title: 'twitter',
             image: Twitter,
-            url: 'https://twitter.com/'
+            url: 'https://twitter.com/elevatedyc'
         },{
             title: 'twitch',
             image: Twitch,
@@ -31,7 +31,7 @@ const Featured = () => {
         },{
             title: 'opensea',
             image: Ship,
-            url: 'https://opensea.io'
+            url: 'https://opensea.io/collection/elevatedyachtclub'
         }
     ]);
 
