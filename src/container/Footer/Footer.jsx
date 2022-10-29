@@ -22,11 +22,11 @@ const Footer = () => {
         },{
             title: 'Youtube',
             icon: Youtube,
-            url: 'https://youtube.com'
+            url: 'https://youtube.com/bayc6380'
         },{
             title: 'Twitter',
             icon: Twitter,
-            url: 'https://twitter.com'
+            url: 'https://twitter.com/elevatedyc'
         },{
             title: 'LinkedIn',
             icon: LinkedIn,
@@ -34,7 +34,7 @@ const Footer = () => {
         },{
             title: 'Instagram',
             icon: Instagram,
-            url: 'https://instagram.com'
+            url: 'https://instagram.com/elevatedyachtclub'
         }
     ]);
 
