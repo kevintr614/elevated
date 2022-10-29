@@ -22,7 +22,7 @@ const Footer = () => {
         },{
             title: 'Youtube',
             icon: Youtube,
-            url: 'https://youtube.com/bayc6380'
+            url: 'https://www.youtube.com/channel/UCZ8bO8LpZvYVLH0xB0yvevw'
         },{
             title: 'Twitter',
             icon: Twitter,
