@@ -34,13 +34,13 @@ const Mint = () => {
                     value: '2.5'
                 },{
                     label: 'Presale Supply',
-                    value: '50'
+                    value: '52/100'
                 },{
                     label: 'ETH',
                     value: '3.5'
                 },{
                     label: 'Total Supply',
-                    value: '350'
+                    value: '0/300'
                 },
             ]
         }
