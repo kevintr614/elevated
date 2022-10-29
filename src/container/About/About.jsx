@@ -48,7 +48,8 @@ const About = () => {
                     <Grid xs={12} md={6} lg={6}>
                         <div className={`mainTitle ${css.title}`}>What is <span>Elevated Yacht Club</span>?</div>
                         <div className={css.text}>
-                            <p>The entrepreneurial journey can be a lonely one specially in web3. That's why it's so important to surround yourself with like-minded individuals who can support and encourage you.At Elevated Yacht Club we bring together people who are passionate about web3 technologies and want to learn more about this growing ecosystem. Our members come from all over the world and represent a wide range of backgrounds and expertise. Through our online platform and events, we provide a space for our community to connect, share knowledge, and collaborate on projects.</p>
+                            <p>The entrepreneurial journey can be a lonely one specially in web3. That's why it's so important to surround yourself with like-minded individuals who can support and encourage you.</p>
+                            <p>At Elevated Yacht Club we bring together people who are passionate about web3 technologies and want to learn more about this growing ecosystem. Our members come from all over the world and represent a wide range of backgrounds and expertise. Through our online platform and events, we provide a space for our community to connect, share knowledge, and collaborate on projects.</p>
                             <p>If you're looking for a supportive community of fellow entrepreneurs, we invite you to join us. Together, let's turn our big ideas into reality.</p>
                         </div>
                     </Grid>
