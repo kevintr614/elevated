@@ -21,9 +21,9 @@ const About = () => {
             icon: Image1,
             text: "If you're looking for a fun and unique way to network with some of the most successful people in your industry, Yacht Networking is the answer! You'll be able to mix and mingle with like-minded individuals while enjoying the beautiful scenery. It's the perfect way to expand your professional network! We host monthly networking events on our yachts in Los Angeles, San Diego, Miami, and soon around the globe. We have a variety of events, including workshops, seminars, conferences, and parties.",
         },{
-            title: 'Community Driven',
+            title: 'Web3 Travel Booking Platform',
             icon: Image2,
-            text: "At Elevated Yacht Club we bring together people who are passionate about web3 technologies and want to learn more about this growing ecosystem. Our members come from all over the world and represent a wide range of backgrounds and expertise. Through our online platform and events, we provide a space for our community to connect, share knowledge, and collaborate on projects.",
+            text: "The world's first web3 travel booking platform is here! With exclusive access to non-published rates and deals with over 2.5M hotels, 950 airlines, and 15,000 resorts around the world, there's no better place to find your perfect vacation.",
         },{
             title: 'Education Portal',
             icon: Image3,
