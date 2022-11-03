@@ -43,7 +43,7 @@ const Benefits = () => {
                 'Life-time Access to all exclusive IRL events with your +1. ',
                 'Guarantee ticket to our yacht events.',
                 'Private Founder Chatroom.',
-                'Priority support on travel hack.',
+                'Priority support.',
                 '30% off yacht rental. (24ppl max)',
                 'Life-time access to our Education Portal.',
                 'Have our team organize yacht events for you, your company or project.',
