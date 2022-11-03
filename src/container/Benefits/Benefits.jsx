@@ -48,7 +48,6 @@ const Benefits = () => {
                 'Life-time access to our Education Portal.',
                 'Have our team organize yacht events for you, your company or project.',
                 'Private Jet charter.',
-                'Nightclub, Music Festival table service.',
                 'Access to our contact in various industries.',
                 'Access to in-house funding team.',
                 'Access to our algorith trading bot.',
