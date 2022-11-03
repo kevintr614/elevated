@@ -40,7 +40,7 @@ const Benefits = () => {
             title: 'FOUNDER PASS',
             list: [
                 'Life-time access to our travel booking platform. (Up to 75% off retails)',
-                'Life-time Access to all exclusive IRL events with your +1. ',
+                'Life-time Access to all exclusive IRL events with +1. ',
                 'Guarantee ticket to our yacht events.',
                 'Private Founder Chatroom.',
                 'Priority support.',
