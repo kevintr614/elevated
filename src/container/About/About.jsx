@@ -27,7 +27,7 @@ const About = () => {
         },{
             title: 'Education Portal',
             icon: Image3,
-            text: "We strongly believe that education is key to success. By providing our members with the tools and resources they need to succeed, we are helping them build a strong foundation for their future.  We are committed to helping our members reach their full potential, and we will continue to invest in their education and development. ",
+            text: "We strongly believe that education is key to success. By providing our members with the tools and resources they need to succeed, we are helping them build a strong foundation for their future. We are committed to helping our members reach their full potential, and we will continue to invest in their education and development. ",
         },
     ]);
 
