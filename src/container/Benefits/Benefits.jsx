@@ -27,6 +27,7 @@ const Benefits = () => {
         },{
             title: 'VIP PASS',
             list: [
+                'Life-time access to our Education Portal.',
                 'Two years access to our travel booking platform. (Up to 75% off retails)',
                 'Life-time access to all exclusive IRL events.',
                 'One free ticket to our yacht event. ($250 per ticket afterward)',
@@ -34,18 +35,18 @@ const Benefits = () => {
                 'Life-time access to all exclusive IRL events.',
                 'DIY travel hack.',
                 '10% off yacht rental. (12ppl max)',
-                'Life-time access to our Education Portal.',
+                
             ]
         },{
             title: 'FOUNDER PASS',
             list: [
+                'Life-time access to our Education Portal.',
                 'Life-time access to our travel booking platform. (Up to 75% off retails)',
                 'Life-time Access to all exclusive IRL events +1. ',
                 'Guarantee ticket to our yacht events.',
                 'Private Founder Chatroom.',
                 'Priority support.',
                 '30% off yacht rental. (24ppl max)',
-                'Life-time access to our Education Portal.',
                 'Have our team organize yacht events for you, your company or project.',
                 'Private Jet charter.',
                 'Access to our contact in various industries.',
